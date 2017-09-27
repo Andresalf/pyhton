@@ -8,7 +8,7 @@ class BSTNode:
 
 class BinarySearchTree(BinaryTree):
     def __init__(self):
-        self.root = None
+        super().__init__()
     
     def insert_node(self, root, data):
         if not root:
