@@ -1,5 +1,8 @@
 .vs/
+.idea/
+.vscode/
 datastructures/__pycache__/
 Python.pyproj
 Python.sln
+
 
